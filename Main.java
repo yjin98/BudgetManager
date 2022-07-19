@@ -135,10 +135,10 @@ public class Main {
 
 class BudgetAndSpend {
     ArrayList<ShoppingItem> shoppingList;
-    ArrayList<Integer> Food;
-    ArrayList<Integer> Clothes;
-    ArrayList<Integer> Entertainment;
-    ArrayList<Integer> Other;
+    //ArrayList<Integer> Food;
+    //ArrayList<Integer> Clothes;
+    //ArrayList<Integer> Entertainment;
+    //ArrayList<Integer> Other;
     float spend;
     float[] typeSpend;
     float balance;
